@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
-public class App{
+public class App{ 
 //	private static final String databasefile = "PEOPLE DATABASE/database.csv";
 	private static final String databasefile = "database.csv";
 	
